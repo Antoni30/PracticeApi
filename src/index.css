@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.imgClass{
+    background-image: url('/fotoAU.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body{
+    padding-top: 6rem;
+}
